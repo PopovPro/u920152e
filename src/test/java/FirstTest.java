@@ -1,4 +1,3 @@
-
 import org.testng.annotations.Test;
 import pages.AuthorizationPage;
 import static org.testng.AssertJUnit.*;
